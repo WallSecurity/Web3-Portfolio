@@ -4,9 +4,7 @@
 
  - [Information about the review](#info)
  - [High Findings](#high)
- - [Medium Findings](#medium)
  - [Low Findings](#low)
- - [Informational/ Gas](#info-gas)
 
 ---
 
@@ -16,7 +14,7 @@
 ## **Information about the review**
 | Auditor | Start Date | End Date | Highs | Mediums | Lows |
 |---|---|---|---|---|---|
-| 0xWallSecurity | 01/15/2024 | 01/15/2024 | a | b | c |
+| 0xWallSecurity | 01/15/2024 | 01/15/2024 | 2 | 0 | 1 |
 
 ---
 
