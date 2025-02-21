@@ -6,4 +6,4 @@ This repository is a collection of security reviews executed by [me](https://git
 
 [Sherlock Profile](https://audits.sherlock.xyz/watson/0xWallSecurity)
 
-[CodeHawks Profile](https://www.codehawks.com/profile/clqyonbnu000311viljnrqp2s9)
+[CodeHawks Profile](https://profiles.cyfrin.io/u/wallsecurity)
